@@ -1,0 +1,26 @@
+.welcomeMessage {
+    box-shadow: #2b542c;
+    border: 2px #122b40;
+    border-radius: 2px;
+    background-color: red;
+}
+
+.sideNav {
+    box-shadow: #2b542c;
+    border: 2px #122b40;
+    border-radius: 2px;
+    background-color: #fff;
+}
+
+nav {
+    background-color: #2b5a33;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffa;
+
+}
